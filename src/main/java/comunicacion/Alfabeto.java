@@ -26,7 +26,7 @@ public class Alfabeto extends Pictograma {
 
 	@Override
 	public String toString() {
-		String cadena = null;
+		String cadena = "";
 		for (String letra: letras) {
 			
 			if(letra.equals("z")) {

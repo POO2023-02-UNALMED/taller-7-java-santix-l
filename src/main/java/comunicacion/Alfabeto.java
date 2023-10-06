@@ -29,7 +29,7 @@ public class Alfabeto extends Pictograma {
 		String cadena = "";
 		for (String letra: letras) {
 			
-			if(letra.equals("z")) {
+			if(letra.equals("Z")) {
 				
 				cadena += letra;
 			}
